@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "/home/vincent-steamovap/boitier_central_electronique/Seeeduino_Xiao_nRF52840_Ele_lib/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "${KIPRJMOD}/Project_Library/Seeeduino_Xiao_nRF52840_Ele_lib/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Project_Library")(type "KiCad")(uri "${KIPRJMOD}/Project_Library/Switch_2_pos")(options "")(descr ""))
 )
