@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "${KIPRJMOD}/Project_Library/Seeeduino_Xiao_nRF52840_Ele_lib/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
   (lib (name "JS102011SAQN")(type "KiCad")(uri "${KIPRJMOD}/Project_Library/Switch_2_pos/JS102011SAQN.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056_lib")(type "KiCad")(uri "${KIPRJMOD}/Project_Library/TP4056_lib.kicad_sym")(options "")(descr ""))
 )
